@@ -1,5 +1,0 @@
-scipy
-numpy
-graphviz
-progressbar2
-pychomp2
