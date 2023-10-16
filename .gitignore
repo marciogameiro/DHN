@@ -1,0 +1,53 @@
+# Executables
+bin
+
+# Build directories
+build*
+software/WebCLI/libs
+
+# Session files
+dsgrn.session
+
+# Mac OS X files
+.DS_Store
+
+# Jypyter notebook files
+.ipynb_checkpoints
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.pyc
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.x
+*.exe
+*.app
+
+# Data
+#*.dat
+*.db
+
+# IntelliJ Idea
+*.iml
+*.idea
