@@ -80,7 +80,7 @@ with open(os.path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='DHN',
-    version='0.1.0',
+    version='0.1.1',
     author='Marcio Gameiro',
     author_email='marciogameiro@gmail.com',
     description='DHN (Dynamics of Hopfield Networks)',
